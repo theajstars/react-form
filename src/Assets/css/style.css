@@ -166,7 +166,7 @@ span.date{
 }
 @media screen and (max-width: 500px){
     .footer-img{
-        width: 400px;
-        height: 400px;
+        width: 250px;
+        height: 250px;
     }
 }
